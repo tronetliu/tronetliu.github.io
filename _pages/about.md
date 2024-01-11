@@ -25,7 +25,7 @@ My name is Tongshu Liu (Joshua).
 
 > NOTE: Most achievements can be found in the evidence materials in the appendix, with reference to #Ei 
 
-#  Scores
+# 📑 Scores
 
 | Course | Description |
 | --- | --- |
@@ -65,7 +65,7 @@ My name is Tongshu Liu (Joshua).
 | 2021    | The First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge (Provincial competition) First Prize #E11
 | 2021    | 2022 Shanghai Science Association for Young Talents (SSAYT) Senior Membership Selection, First Place Prize (ranking first place in division of Computer Science) #E12
 
-# ACTIVITIES
+# 🎡 ACTIVITIES
 
 ## TEAM ACTIVITIES
 *August 2023*  Participated in **2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML 2023)** and made oral presentation of my research paper. I won the **Best Presentation Award** in the session of Computer Vision and Recognition. #E13
@@ -93,11 +93,11 @@ In 2022, I initiated the "Tongshu Reading Club" community service project named 
 + Tongshu Liu (Sole applicant) A “Phubber” Intelligent Recognition System Combining Object Detection and Pose Recognition Technology, apply date:2022-09-29, publish date: 2023-06-09, publish number: CN116246299A, check it in https://zhuanli.tianyancha.com/5bd34007a6da1355b41e6cf1445ce698
 
 
-# Art Skills
+# 🎻 Art Skills
 + **Violin Skill**, studies violin for 10 years, obtained the violin amateur level 10 (highest level) certificate issued by Shanghai Conservatory of Music at the age of 13.   #E16
 
 
-# Media Report
+# 📣 Media Report
 + [ \[ Article \]](https://new.qq.com/rain/a/20220915A09FBO00), report about my AI research work from The World Laureates Association (WLA)
 + [ \[ Article \]](https://new.qq.com/rain/a/20221128A01HQX00), report on my participation in the Middle School Students' Artificial Intelligence Innovation Summit from QQ news.
 + [ \[ Article \]](https://mp.weixin.qq.com/s?__biz=MzU0NjAxNTEzNA==&mid=2247512910&idx=1&sn=61df4f4bb0c6919cb3cf81989f9794eb), report from Shanghai Youth Science Innovation Practice Workstation
