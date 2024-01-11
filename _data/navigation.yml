@@ -3,29 +3,26 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "EDUCATION"
-    url: "/#-EDUCATION"
-  
+  - title: "Educations"
+    url: "/#-educations"
+
   - title: "Tests Scores"
-    url: "/#-TestsScores"
-
-  - title: "Awards"
-    url: "/#-Awards"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
+    url: "/#-scores"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Publications"
+    url: "/#-publications"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Art Skills"
+    url: "/#-art-skills"
+  
+  - title: "Media Report"
+    url: "/#-media-report"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+  # - title: "Internships"
+  #   url: "/#-internships"
