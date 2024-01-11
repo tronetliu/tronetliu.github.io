@@ -98,9 +98,9 @@ In 2022, I initiated the "Tongshu Reading Club" community service project named 
 
 
 # 📣 Media Report
-+ [ \[ Article \]](https://new.qq.com/rain/a/20220915A09FBO00), report about my AI research work from The World Laureates Association (WLA)
-+ [ \[ Article \]](https://new.qq.com/rain/a/20221128A01HQX00), report on my participation in the Middle School Students' Artificial Intelligence Innovation Summit from QQ news.
-+ [ \[ Article \]](https://mp.weixin.qq.com/s?__biz=MzU0NjAxNTEzNA==&mid=2247512910&idx=1&sn=61df4f4bb0c6919cb3cf81989f9794eb), report from Shanghai Youth Science Innovation Practice Workstation
++ [ \[Report\]](https://new.qq.com/rain/a/20220915A09FBO00), report about my AI research work from The World Laureates Association (WLA)
++ [ \[Report\]](https://new.qq.com/rain/a/20221128A01HQX00), report on my participation in the Middle School Students' Artificial Intelligence Innovation Summit from QQ news.
++ [ \[Report\]](https://mp.weixin.qq.com/s?__biz=MzU0NjAxNTEzNA==&mid=2247512910&idx=1&sn=61df4f4bb0c6919cb3cf81989f9794eb), report from Shanghai Youth Science Innovation Practice Workstation
 + [ \[Video\]](https://w.yangshipin.cn/video?callapp=&channel=&vid=g000004sd8u&type=0), a video of my project (made by myself) from Yangshipin (CCTV Short Video APP)
 
 <!-- # 💬 Invited Talks
