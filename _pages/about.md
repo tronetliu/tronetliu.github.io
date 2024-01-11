@@ -25,7 +25,7 @@ My name is Tongshu Liu (Joshua).
 
 > NOTE: Most achievements can be found in the evidence materials in the appendix, with reference to #Ei 
 
-# Scores
+#  Scores
 
 | Course | Description |
 | --- | --- |
@@ -42,7 +42,7 @@ My name is Tongshu Liu (Joshua).
 | Syntax | Campition | Description | 
 | --- | --- | --- |
 |2023	 | AP TESTS	| AP SCHOLAR
-|2022	 | AMC 12	  | HONOR ROLL, CERTIFICATE OF DISTINCTION(AIME) #E1
+|2022	 | AMC 12	  | HONOR ROLL, CERTIFICATE OF DISTINCTION(AIME) [#E1](#Evidence #1: Certificates and Score of AMC 12B)
 |2023	 | AIME	    | CERTIFICATE OF PARTICIPATION (SCORE:11) #E2
 |2022	 | HiMCM (High School Mathematical Contest In Modeling) |	CERTIFICATE of Honorable Mention (Group leader) #E3
 |2023	 | USACO (USA Computing Olympiad)   | GOLD DIVISION #E4
