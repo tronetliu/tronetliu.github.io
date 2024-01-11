@@ -17,14 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My name is Tongshu Liu (Joshua).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# EDUCTION
++ 2021.09-2024.06     High School Affiliated to Shanghai Jiao Tong University
++ 2017.09-2021.07     Shanghai Shibei Junior High School (Class of Mathematics Competition)
 
+> NOTE: Most achievements can be found in the evidence materials in the appendix, with reference to #Ei 
+
+# TestsScores
++ TOEFL iBT	  103 (Reading 26, Listening 29, Speaking 23, Writing 25)
++ AP	        CACULUS BC 4 (CACULUS AB Subscore 5), CHEMISTRY 4, STATISTICS 4,  AP scholar
++ ACT         Composite 33 (Math 36, Science 33, English 35, Reading 26)
++ AMC 12B	    121.5 out of 150
++ AIME	      11 out of 15
+
+# Awards
+Academic Awards
+
+|Date | name |awards |
+|------|-------|-------|
+|2023	 | AP TESTS	| AP SCHOLAR
+|2022	 | AMC 12	  | HONOR ROLL, CERTIFICATE OF DISTINCTION(AIME) #E1
+|2023	 | AIME	    | CERTIFICATE OF PARTICIPATION (SCORE:11) #E2
+|2022	 | HiMCM (High School Mathematical Contest In Modeling) |	CERTIFICATE of Honorable Mention (Group leader) #E3
+|2023	 | USACO (USA Computing Olympiad)   | GOLD DIVISION #E4
+|2022	 | Canadian Chemistry Contest  | Gold Award (National top 10%), Special Merit (Canada top 10%) #E5
+|2022	 | Canadian Chemistry Olympiad | Global Bronze Award, China Bronze Award  #E6
+|2022	 | DUKE MATH MEET COMEPTENCY EVALUATION  | Distinction Award (TOP 35%) #E7
+|2022	 | DUKE MATH MEET BOOT CAMP INDIVIDUAL PERFORMANCE  | Merit (50%) #E7
+|2022	 | DUKE MATH MEET BOOT CAMP TEAM PERFORMANCE    | Merit (50%) #E7
+
+STEM Awards
+
++ 2023     Award of Scientific Research Project of Rhino-Bird Middle School Science Research Training Program (National level) Outstanding prize (ranking national 7th in the finals)  #E8
++ 2023     The 38th Shanghai Youth Science and Technology Innovation Competition (Provincial competition) First Prize  #E9
++ 2022     The 37th Shanghai Youth Science and Technology Innovation Competition (Provincial competition)  Second Prize #E9
++ 2022     The 4th International Artificial Intelligence Fair (International competition) High School Second Prize  #E10
++ 2021     The 3th International Artificial Intelligence Fair (International competition) High School Second Prize  #E10
++ 2022     AI Future High School Students' Artificial Intelligence Innovation Summit (Regional level) First Prize 
++ 2021     The First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge (Provincial competition) First Prize #E11
++ 2021     2022 Shanghai Science Association for Young Talents (SSAYT) Senior Membership Selection, First Place Prize (ranking first place in division of Computer Science) #E12
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 

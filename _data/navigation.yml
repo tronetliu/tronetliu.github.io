@@ -3,6 +3,15 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "EDUCATION"
+    url: "/#-EDUCATION"
+  
+  - title: "Tests Scores"
+    url: "/#-TestsScores"
+
+  - title: "Awards"
+    url: "/#-Awards"
+
   - title: "News"
     url: "/#-news"
 
