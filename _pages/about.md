@@ -26,7 +26,7 @@ My name is Tongshu Liu (Joshua).
 > NOTE: Most achievements can be found in the evidence materials in the appendix, with reference to #Ei 
 
 # Scores
-| ------ | -------|
+|------|-------|
 | TOEFL iBT	| 103 (Reading 26, Listening 29, Speaking 23, Writing 25)
 | AP	      | CACULUS BC 4 (CACULUS AB Subscore 5), CHEMISTRY 4, STATISTICS 4,  AP scholar
 | ACT       | Composite 33 (Math 36, Science 33, English 35, Reading 26)
@@ -49,7 +49,7 @@ My name is Tongshu Liu (Joshua).
 |2022	 | DUKE MATH MEET BOOT CAMP TEAM PERFORMANCE    | Merit (50%) #E7
 
 ## TEAM Awards
-| ----- | ------|
+|-----|------|
 | 2023    | Award of Scientific Research Project of Rhino-Bird Middle School Science Research Training Program (National level) Outstanding prize (ranking national 7th in the finals)  #E8
 | 2023    | The 38th Shanghai Youth Science and Technology Innovation Competition (Provincial competition) First Prize  #E9
 | 2022    | The 37th Shanghai Youth Science and Technology Innovation Competition (Provincial competition)  Second Prize #E9
