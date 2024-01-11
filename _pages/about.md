@@ -35,7 +35,8 @@ My name is Tongshu Liu (Joshua).
 | AIME	    | 11 out of 15
 
 # 🎖 Honors and Awards
-Academic Awards
+
+## Academic Awards
 
 |Date | name |awards |
 |------|-------|-------|
@@ -50,7 +51,7 @@ Academic Awards
 |2022	 | DUKE MATH MEET BOOT CAMP INDIVIDUAL PERFORMANCE  | Merit (50%) #E7
 |2022	 | DUKE MATH MEET BOOT CAMP TEAM PERFORMANCE    | Merit (50%) #E7
 
-STEM Awards
+## TEAM Awards
 
 | Date | awards |
 | 2023    | Award of Scientific Research Project of Rhino-Bird Middle School Science Research Training Program (National level) Outstanding prize (ranking national 7th in the finals)  #E8
@@ -64,15 +65,15 @@ STEM Awards
 
 # ACTIVITIES
 
-## TEM ACTIVITIES
-**August 2023**  Participated in **2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML 2023)** and made oral presentation of my research paper. I won the **Best Presentation Award** in the session of Computer Vision and Recognition. #E13
+## TEAM ACTIVITIES
+*August 2023*  Participated in **2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML 2023)** and made oral presentation of my research paper. I won the **Best Presentation Award** in the session of Computer Vision and Recognition. #E13
 (PRML is an annual conference which aims to present the latest research and results of scholars and experts related to Pattern Recognition and Machine Learning. Conference URL: http://www.prml.org/index.html)
 
-**July 2022-Nov 2022**	Selected for the **2022 Rhino-Bird Middle School Science Research Training Program** (with a total of 29 projects nation-wide, hosted by Beijing National Research Center for Information Science and Technology, Tsinghua university and Tencent Company), within 5 months, I completed my research project, Intelligent Recognition System for smartphone phubber based on Pose Classification and Object Detection Algorithm, and won **Outstanding prize in the finals(ranking national 7th place)**. #E8
+*July 2022-Nov 2022*	Selected for the **2022 Rhino-Bird Middle School Science Research Training Program** (with a total of 29 projects nation-wide, hosted by Beijing National Research Center for Information Science and Technology, Tsinghua university and Tencent Company), within 5 months, I completed my research project, Intelligent Recognition System for smartphone phubber based on Pose Classification and Object Detection Algorithm, and won **Outstanding prize in the finals(ranking national 7th place)**. #E8
 
-**August 2022**	Selected for **2022 Tencent Rhinoceros Bird Elite Camp**, I studied courses including artificial intelligence, machine learning and computer vision, etc., and conducted on-site model training experiments and competitions. #E14
+*August 2022*	Selected for **2022 Tencent Rhinoceros Bird Elite Camp**, I studied courses including artificial intelligence, machine learning and computer vision, etc., and conducted on-site model training experiments and competitions. #E14
 
-**August 2021**	Selected for the **2021 Youth AI Future Summer Camp** jointly organized by Shanghai Artificial Intelligence Laboratory, SenseTime Company (one of the best AI companies in China), and Shanghai Jiao Tong University (a total of 23 students). My research project, clean-plates action in AI canteen, achieved a score of A+ in the final assessment.  #E15
+*August 2021*	Selected for the **2021 Youth AI Future Summer Camp** jointly organized by Shanghai Artificial Intelligence Laboratory, SenseTime Company (one of the best AI companies in China), and Shanghai Jiao Tong University (a total of 23 students). My research project, clean-plates action in AI canteen, achieved a score of A+ in the final assessment.  #E15
 
 ## SOCIAL ACTIVITYES
 **2022-2023  "Tongshu Reading Club" public welfare project**  #E17
@@ -89,30 +90,16 @@ In 2022, I initiated the "Tongshu Reading Club" community service project named 
 
 + Tongshu Liu (Sole applicant) A “Phubber” Intelligent Recognition System Combining Object Detection and Pose Recognition Technology, apply date:2022-09-29, publish date: 2023-06-09, publish number: CN116246299A, check it in https://zhuanli.tianyancha.com/5bd34007a6da1355b41e6cf1445ce698
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 
 # Art Skills
 + **Violin Skill**, studies violin for 10 years, obtained the violin amateur level 10 (highest level) certificate issued by Shanghai Conservatory of Music at the age of 13.   #E16
 
 
 # Media Report
-+ https://new.qq.com/rain/a/20220915A09FBO00, report about my AI research work from The World Laureates Association (WLA)
-+ https://new.qq.com/rain/a/20221128A01HQX00, report on my participation in the Middle School Students' Artificial Intelligence Innovation Summit from QQ news.
-+ https://mp.weixin.qq.com/s?__biz=MzU0NjAxNTEzNA==&mid=2247512910&idx=1&sn=61df4f4bb0c6919cb3cf81989f9794eb, report from Shanghai Youth Science Innovation Practice Workstation
-+ https://w.yangshipin.cn/video?callapp=&channel=&vid=g000004sd8u&type=0, a video of my project (made by myself) from Yangshipin (CCTV Short Video APP)
++ [ \[ Article \]](https://new.qq.com/rain/a/20220915A09FBO00), report about my AI research work from The World Laureates Association (WLA)
++ [ \[ Article \]](https://new.qq.com/rain/a/20221128A01HQX00), report on my participation in the Middle School Students' Artificial Intelligence Innovation Summit from QQ news.
++ [ \[ Article \]](https://mp.weixin.qq.com/s?__biz=MzU0NjAxNTEzNA==&mid=2247512910&idx=1&sn=61df4f4bb0c6919cb3cf81989f9794eb), report from Shanghai Youth Science Innovation Practice Workstation
++ [ \[Video\]](https://w.yangshipin.cn/video?callapp=&channel=&vid=g000004sd8u&type=0), a video of my project (made by myself) from Yangshipin (CCTV Short Video APP)
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
