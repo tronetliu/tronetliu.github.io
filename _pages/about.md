@@ -26,6 +26,7 @@ My name is Tongshu Liu (Joshua).
 > NOTE: Most achievements can be found in the evidence materials in the appendix, with reference to #Ei 
 
 # Scores
+
 | Course | Description |
 | --- | --- |
 | TOEFL iBT	| 103 (Reading 26, Listening 29, Speaking 23, Writing 25)
@@ -37,6 +38,7 @@ My name is Tongshu Liu (Joshua).
 # 🎖 Honors and Awards
 
 ## Academic Awards
+
 | Syntax | Campition | Description | 
 | --- | --- | --- |
 |2023	 | AP TESTS	| AP SCHOLAR
@@ -51,6 +53,7 @@ My name is Tongshu Liu (Joshua).
 |2022	 | DUKE MATH MEET BOOT CAMP TEAM PERFORMANCE    | Merit (50%) #E7
 
 ## TEAM Awards
+
 | Date | Description |
 | ----------- | ----------- |
 | 2023    | Award of Scientific Research Project of Rhino-Bird Middle School Science Research Training Program (National level) Outstanding prize (ranking national 7th in the finals)  #E8
@@ -106,3 +109,7 @@ In 2022, I initiated the "Tongshu Reading Club" community service project named 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# Appendix
+Certificates of Awards and Activities 
+### Evidence #1: Certificates and Score of AMC 12B
