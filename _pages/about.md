@@ -42,9 +42,9 @@ My name is Tongshu Liu (Joshua).
 | Syntax | Campition | Description | 
 | --- | --- | --- |
 |2023	 | AP TESTS	| AP SCHOLAR
-|2022	 | AMC 12	  | HONOR ROLL, CERTIFICATE OF DISTINCTION(AIME) [#E1](#Evidence #1: Certificates and Score of AMC 12B)
-|2023	 | AIME	    | CERTIFICATE OF PARTICIPATION (SCORE:11) #E2
-|2022	 | HiMCM (High School Mathematical Contest In Modeling) |	CERTIFICATE of Honorable Mention (Group leader) #E3
+|2022	 | AMC 12	  | HONOR ROLL, CERTIFICATE OF DISTINCTION(AIME) [#E1](#evidence-1-certificates-and-score-of-amc-12b)
+|2023	 | AIME	    | CERTIFICATE OF PARTICIPATION (SCORE:11) [#E2](#evidence-2-certificate-and-score-of-aime)
+|2022	 | HiMCM (High School Mathematical Contest In Modeling) |	CERTIFICATE of Honorable Mention (Group leader) [#E3](#evidence-3-certificate-of-himcm-high-school-mathematical-contest-in-modeling)
 |2023	 | USACO (USA Computing Olympiad)   | GOLD DIVISION #E4
 |2022	 | Canadian Chemistry Contest  | Gold Award (National top 10%), Special Merit (Canada top 10%) #E5
 |2022	 | Canadian Chemistry Olympiad | Global Bronze Award, China Bronze Award  #E6
@@ -112,4 +112,62 @@ In 2022, I initiated the "Tongshu Reading Club" community service project named 
 
 # Appendix
 Certificates of Awards and Activities 
+
 ### Evidence #1: Certificates and Score of AMC 12B
+<div>
+
+<img></img>
+
+
+
+</div>
+
+### Evidence #2: Certificate and Score of AIME
+
+### Evidence #3: Certificate of HiMCM (High School Mathematical Contest In Modeling)
+### Evidence #4: USACO Profile (Gold Division)
+### Evidence #5: Certificates of CCC
+### Evidence #6: Certificates of CCO
+### Evidence #7: Certificates of DUKE MATH MEET
+### Evidence #8: Certificates of Project and Award of Final in Rhino-Bird Middle School Science Research Training Program
+
+(labeled in English)
+
+LINK: https://mp.weixin.qq.com/s/3fPULhUiiX6E_1pkyP2sIQ
+Rhino-Bird Middle School Science Research Training Program is hosted by Beijing National Research Center for Information Science and Technology, Tsinghua university and Tencent Company. It’s a platform for scientific research exploration and practical innovation to stimulate students' interest and enthusiasm in exploring unknown fields of science, and deepen their research horizons to enhance their research capabilities, helping to cultivate and reserve top scientific and technological talents in the country. The Rhino-Bird research program has become the most influential academic research platform in the fields of information technology and artificial intelligence in China.
+
+### Evidence #9: Certificates of 38th and 37th Shanghai Youth Science and Technology Innovation Competition
+(labeled in English, the first prize awarded to top 5%)
+
+### Evidence #10: Certificates of the 4th and 3rd International Artificial Intelligence Fair
+
+My project ranks third place in IAIF 2022
+Award list link: https://maimai.cn/article/detail?fid=1773073926&efid=2VHg4mbUp3QOK0d5-LjfnA
+IAIF Link: https://www.iaif.tech/iaifHome/home
+
+### Evidence #11: Certificate of the First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge 
+
+### Evidence #12: Certificate of 2022 Shanghai Science Association for Young Talents (SSAYT) Senior Membership Selection 
+
+Certificates and Photos of Activities
+### Evidence #13: 2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning
+
+### Evidence #14: 2022 Tencent Rhinoceros Bird Elite Camp 
+The campers are university and middle school students selected for the Tencent Rhino-Bird program
+
+### Evidence #15: 2021 Youth AI Future Summer Camp
+(translated in English)
+
+Personal Evaluation Report from Prof. Cewu Lu (Department of Computer Science and Engineering Shanghai Jiao Tong University, top scientists in the field of computer vision)
+
+### Evidence #16: Violin Certificate
+Obtained the violin amateur level 10 (highest level) certificate issued by Shanghai Conservatory of Music at the age of 13.
+
+### Evidence #17: "Tongshu Reading Club" public welfare project
+
+Introduction of  "Tongshu Reading Club" public welfare project
+As more and more young and middle-aged people in  rural areas of China come to work in cities, a large number of left-behind children in rural areas are facing a lack of parental companionship. In rural areas where smartphones are becoming increasingly popular, mobile phones have become a spiritual dependence for many left-behind children, causing a large number of them to become addicted to smartphones, leading to learning difficulties and mental deprivation. Helping left-behind children keep away from smartphones and like to read will be a problem that the whole society needs to pay attention to. In response to this situation, the Tongshu Reading Club was born, Tongshu in Chinese means children’s book. The Reading Club will gather social resources in different forms to provide high-quality books and reading guidance for left-behind children in rural areas, thus to build a spiritual home for left-behind children in rural areas and illuminate their future.
+
+Donation book list and book label with reading grades
+
+We established libraries for three schools in minority area of Yunnan province
