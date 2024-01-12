@@ -63,8 +63,8 @@ My name is Tongshu Liu (Joshua).
 | 2022    | The 37th Shanghai Youth Science and Technology Innovation Competition (Provincial competition) **Second Prize** [#E9](#evidence-9-certificates-of-38th-and-37th-shanghai-youth-science-and-technology-innovation-competition)
 | 2022    | The 4th International Artificial Intelligence Fair (International competition) **High School Second Prize**  [#E10](#evidence-10-certificates-of-the-4th-and-3rd-international-artificial-intelligence-fair)
 | 2021    | The 3th International Artificial Intelligence Fair (International competition) **High School Second Prize** [#E10](#evidence-10-certificates-of-the-4th-and-3rd-international-artificial-intelligence-fair)
-| 2022    | AI Future High School Students' Artificial Intelligence Innovation Summit (Regional level)** First Prize** 
-| 2021    | The First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge (Provincial competition)** First Prize**[#E11](#evidence-11-certificate-of-the-first-yangtze-river-delta-youth-artificial-intelligence-olympic-challenge)
+| 2022    | AI Future High School Students' Artificial Intelligence Innovation Summit (Regional level)**First Prize** 
+| 2021    | The First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge (Provincial competition)**First Prize**[#E11](#evidence-11-certificate-of-the-first-yangtze-river-delta-youth-artificial-intelligence-olympic-challenge)
 | 2021    | 2022 Shanghai Science Association for Young Talents (SSAYT) Senior Membership Selection, **First Place Prize (ranking first place in division of Computer Science)** [#E12](#evidence-12-certificate-of-2022-shanghai-science-association-for-young-talents-ssayt-senior-membership-selection)
 
 # 🎡 ACTIVITIES
@@ -208,7 +208,7 @@ IAIF [Link](https://www.iaif.tech/iaifHome/home)
 ### Evidence #11: Certificate of the First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge 
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E11-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E11.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
 
 
