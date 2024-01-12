@@ -45,8 +45,8 @@ My name is Tongshu Liu (Joshua).
 |2022	 | AMC 12	  | HONOR ROLL, CERTIFICATE OF DISTINCTION(AIME) [#E1](#evidence-1-certificates-and-score-of-amc-12b)
 |2023	 | AIME	    | CERTIFICATE OF PARTICIPATION (SCORE:11) [#E2](#evidence-2-certificate-and-score-of-aime)
 |2022	 | HiMCM (High School Mathematical Contest In Modeling) |	CERTIFICATE of Honorable Mention (Group leader) [#E3](#evidence-3-certificate-of-himcm-high-school-mathematical-contest-in-modeling)
-|2023	 | USACO (USA Computing Olympiad)   | GOLD DIVISION #E4
-|2022	 | Canadian Chemistry Contest  | Gold Award (National top 10%), Special Merit (Canada top 10%) #E5
+|2023	 | USACO (USA Computing Olympiad)   | GOLD DIVISION [#E4](#evidence-4-usaco-profile-gold-division)
+|2022	 | Canadian Chemistry Contest  | Gold Award (National top 10%), Special Merit (Canada top 10%) [#E5](#evidence-4-usaco-profile-gold-division)
 |2022	 | Canadian Chemistry Olympiad | Global Bronze Award, China Bronze Award  #E6
 |2022	 | DUKE MATH MEET COMEPTENCY EVALUATION  | Distinction Award (TOP 35%) #E7
 |2022	 | DUKE MATH MEET BOOT CAMP INDIVIDUAL PERFORMANCE  | Merit (50%) #E7
@@ -114,11 +114,20 @@ In 2022, I initiated the "Tongshu Reading Club" community service project named 
 Certificates of Awards and Activities 
 
 ### Evidence #1: Certificates and Score of AMC 12B
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2016</div>
+        <img src='images/appendix/E1-1.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1"> </div>
+</div>
+
 <div>
 
-<img></img>
-
-
+<img src="images/appendix/E1-1.png" width="100%" />
 
 </div>
 
