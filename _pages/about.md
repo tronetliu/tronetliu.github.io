@@ -88,7 +88,7 @@ In 2022, I initiated the "Tongshu Reading Club" community service project named 
 # 📝 Publications 
 
 ## Conference Paper
-+ Tongshu Liu (Sole author), An Intelligent Recognition Method and System of "Phubber" based on Object Detection and Pose Estimation Algorithm, 2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML), Urumqi, China, 2023, pp. 99-106, doi: 10.1109/PRML59573.2023.10348302. check it in [Url](https://ieeexplore.ieee.org/document/10348302)
++ Tongshu Liu (Sole author), An Intelligent Recognition Method and System of "Phubber" based on Object Detection and Pose Estimation Algorithm, 2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML), Urumqi, China, 2023, pp. 99-106, doi: 10.1109/PRML59573.2023.10348302. check it in [Link](https://ieeexplore.ieee.org/document/10348302)
 
 ## National invention patent
 
