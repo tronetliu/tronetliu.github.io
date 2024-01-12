@@ -20,41 +20,44 @@ redirect_from:
 My name is Tongshu Liu (Joshua).
 
 # 📖 Educations
-+ 2021.09-2024.06     High School Affiliated to Shanghai Jiao Tong University
-+ 2017.09-2021.07     Shanghai Shibei Junior High School (Class of Mathematics Competition)
+
++ *2019.09-2023.06*     High School Affiliated to Shanghai Jiao Tong University IB Center
++ *2019.09-2023.06*     High School Affiliated to Shanghai Jiao Tong University 
++ *2019.09-2023.06*    Shanghai Shibei Junior High School (Class of Mathematics Competition)
 
 > NOTE: Most achievements can be found in the evidence materials in the appendix, with reference to #Ei 
 
 # 📑 Scores
 
-| Course | Description |
+| TESTS | SCORES |
 | --- | --- |
-| TOEFL iBT	| 103 (Reading 26, Listening 29, Speaking 23, Writing 25)
-| AP	      | CACULUS BC 4 (CACULUS AB Subscore 5), CHEMISTRY 4, STATISTICS 4,  AP scholar
-| ACT       | Composite 33 (Math 36, Science 33, English 35, Reading 26)
-| AMC 12B	  | 121.5 out of 150
-| AIME	    | 11 out of 15
+| TOEFL	    | 103
+| AP	      | CACULUS BC 4 (CACULUS AB 5), CHEMISTRY 4, STATISTICS 4
+| ACT       | 33
+| AMC 12B	  | 121.5
+| AIME	    | 11
 
 # 🎖 Honors and Awards
 
 ## Academic Awards
 
-| Syntax | Campition | Description | 
+| YEAR |  ACTIVITIES | AWARDS | 
 | --- | --- | --- |
 |2023	 | AP TESTS	| AP SCHOLAR
-|2022	 | AMC 12	  | HONOR ROLL, CERTIFICATE OF DISTINCTION(AIME) [#E1](#evidence-1-certificates-and-score-of-amc-12b)
-|2023	 | AIME	    | CERTIFICATE OF PARTICIPATION (SCORE:11) [#E2](#evidence-2-certificate-and-score-of-aime)
-|2022	 | HiMCM (High School Mathematical Contest In Modeling) |	CERTIFICATE of Honorable Mention (Group leader) [#E3](#evidence-3-certificate-of-himcm-high-school-mathematical-contest-in-modeling)
-|2023	 | USACO (USA Computing Olympiad)   | GOLD DIVISION [#E4](#evidence-4-usaco-profile-gold-division)
-|2022	 | Canadian Chemistry Contest  | Gold Award (National top 10%), Special Merit (Canada top 10%) [#E5](#evidence-4-usaco-profile-gold-division)
-|2022	 | Canadian Chemistry Olympiad | Global Bronze Award, China Bronze Award  #E6
-|2022	 | DUKE MATH MEET COMEPTENCY EVALUATION  | Distinction Award (TOP 35%) #E7
+|2022	 | AMC 12	  | **HONOR ROLL, CERTIFICATE OF DISTINCTION**(AIME) [#E1](#evidence-1-certificates-and-score-of-amc-12b)
+|2023	 | AIME	    | **CERTIFICATE OF PARTICIPATION** (SCORE:11) [#E2](#evidence-2-certificate-and-score-of-aime)
+|2022	 | HiMCM (High School Mathematical Contest In Modeling) |	**CERTIFICATE of Honorable Mention** (Group leader) [#E3](#evidence-3-certificate-of-himcm-high-school-mathematical-contest-in-modeling)
+|2023	 | USACO (USA Computing Olympiad)         | GOLD DIVISION [#E4](#evidence-4-usaco-profile-gold-division)
+|2022	 | Canadian Chemistry Contest             | Gold Award (National top 10%), Special Merit (Canada top 10%) [#E5](#evidence-4-usaco-profile-gold-division)
+|2022	 | Canadian Chemistry Olympiad            | Global Bronze Award, China Bronze Award  #E6
+|2022	 | DUKE MATH MEET COMEPTENCY EVALUATION   | Distinction Award (TOP 35%) #E7
 |2022	 | DUKE MATH MEET BOOT CAMP INDIVIDUAL PERFORMANCE  | Merit (50%) #E7
-|2022	 | DUKE MATH MEET BOOT CAMP TEAM PERFORMANCE    | Merit (50%) #E7
+|2022	 | DUKE MATH MEET BOOT CAMP TEAM PERFORMANCE        | Merit (50%) #E7
 
-## TEAM Awards
 
-| Date | Description |
+## STEM Awards
+
+| YEAR | AWARDS |
 | ----------- | ----------- |
 | 2023    | Award of Scientific Research Project of Rhino-Bird Middle School Science Research Training Program (National level) Outstanding prize (ranking national 7th in the finals)  #E8
 | 2023    | The 38th Shanghai Youth Science and Technology Innovation Competition (Provincial competition) First Prize  #E9
