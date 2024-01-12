@@ -125,10 +125,10 @@ Certificates of Awards and Activities
   <!-- <div class='paper-box-text' markdown="1"> </div> -->
 </div>
 
-<div style="display:flex;">
-  <img src="images/appendix/E1-1.png" width="300px" />
-  <img src="images/appendix/E1-2.png" width="300px" />
-  <img src="images/appendix/E1-3.png" width="300px" />
+<div style="display:flex;overflow: auto;gap: 1rem;">
+  <img src="images/appendix/E1-1.png" width="320px" />
+  <img src="images/appendix/E1-2.png" width="320px" />
+  <img src="images/appendix/E1-3.png" width="320px" />
 </div>
 
 ### Evidence #2: Certificate and Score of AIME
