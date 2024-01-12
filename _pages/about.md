@@ -238,19 +238,18 @@ The campers are university and middle school students selected for the Tencent R
 
 ### Evidence #15: 2021 Youth AI Future Summer Camp
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E16.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E15-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E15-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
-
-(translated in English)
 
 Personal Evaluation Report from Prof. Cewu Lu (Department of Computer Science and Engineering Shanghai Jiao Tong University, top scientists in the field of computer vision)
 
 ### Evidence #16: Violin Certificate
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E1-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E1-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E1-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E16.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
+
+
 
 Obtained the violin amateur level 10 (highest level) certificate issued by Shanghai Conservatory of Music at the age of 13.
 
