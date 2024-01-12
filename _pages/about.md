@@ -126,15 +126,15 @@ Certificates of Awards and Activities
 </div>
 
 <div style="display:flex;">
-  <img src="images/appendix/E1-1.png" width="100%" />
-  <img src="images/appendix/E1-2.png" width="100%" />
-  <img src="images/appendix/E1-3.png" width="100%" />
+  <img src="images/appendix/E1-1.png" width="300px" />
+  <img src="images/appendix/E1-2.png" width="300px" />
+  <img src="images/appendix/E1-3.png" width="300px" />
 </div>
 
 ### Evidence #2: Certificate and Score of AIME
 <div>
-  <img src="images/appendix/E2-1.png" width="100%" />
-  <img src="images/appendix/E2-2.png" width="100%" />
+  <img src="images/appendix/E2-1.png" width="300px" />
+  <img src="images/appendix/E2-2.png" width="300px" />
 </div>
 
 ### Evidence #3: Certificate of HiMCM (High School Mathematical Contest In Modeling)
