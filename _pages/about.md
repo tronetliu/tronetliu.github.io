@@ -43,30 +43,29 @@ My name is Tongshu Liu (Joshua).
 
 | YEAR |  ACTIVITIES | AWARDS | 
 | --- | --- | --- |
-|2023	 | AP TESTS	| AP SCHOLAR
 |2022	 | AMC 12	  | **HONOR ROLL, CERTIFICATE OF DISTINCTION**(AIME) [#E1](#evidence-1-certificates-and-score-of-amc-12b)
 |2023	 | AIME	    | **CERTIFICATE OF PARTICIPATION** (SCORE:11) [#E2](#evidence-2-certificate-and-score-of-aime)
 |2022	 | HiMCM (High School Mathematical Contest In Modeling) |	**CERTIFICATE of Honorable Mention** (Group leader) [#E3](#evidence-3-certificate-of-himcm-high-school-mathematical-contest-in-modeling)
-|2023	 | USACO (USA Computing Olympiad)         | GOLD DIVISION [#E4](#evidence-4-usaco-profile-gold-division)
-|2022	 | Canadian Chemistry Contest             | Gold Award (National top 10%), Special Merit (Canada top 10%) [#E5](#evidence-4-usaco-profile-gold-division)
-|2022	 | Canadian Chemistry Olympiad            | Global Bronze Award, China Bronze Award  #E6
-|2022	 | DUKE MATH MEET COMEPTENCY EVALUATION   | Distinction Award (TOP 35%) #E7
-|2022	 | DUKE MATH MEET BOOT CAMP INDIVIDUAL PERFORMANCE  | Merit (50%) #E7
-|2022	 | DUKE MATH MEET BOOT CAMP TEAM PERFORMANCE        | Merit (50%) #E7
+|2023	 | USACO (USA Computing Olympiad)         | **GOLD DIVISION** [#E4](#evidence-4-usaco-profile-gold-division)
+|2022	 | Canadian Chemistry Contest             | **Gold Award** (National top 10%), **Special Merit** [#E5](#evidence-4-usaco-profile-gold-division)
+|2022	 | Canadian Chemistry Olympiad            | **China Bronze Award (National top 35%)**  [#E6](#evidence-6-certificates-of-cco)
+|2022	 | DUKE MATH MEET COMEPTENCY EVALUATION   | **Distinction Award** (TOP 35%) [#E7](#evidence-7-certificates-of-duke-math-meet)
+|2022	 | DUKE MATH MEET BOOT CAMP INDIVIDUAL PERFORMANCE  | **Merit** (50%) [#E7](#evidence-7-certificates-of-duke-math-meet)
+|2022	 | DUKE MATH MEET BOOT CAMP TEAM PERFORMANCE        | **Merit** (50%) [#E7](#evidence-7-certificates-of-duke-math-meet)
 
 
 ## STEM Awards
 
 | YEAR | AWARDS |
 | ----------- | ----------- |
-| 2023    | Award of Scientific Research Project of Rhino-Bird Middle School Science Research Training Program (National level) Outstanding prize (ranking national 7th in the finals)  #E8
-| 2023    | The 38th Shanghai Youth Science and Technology Innovation Competition (Provincial competition) First Prize  #E9
-| 2022    | The 37th Shanghai Youth Science and Technology Innovation Competition (Provincial competition)  Second Prize #E9
-| 2022    | The 4th International Artificial Intelligence Fair (International competition) High School Second Prize  #E10
-| 2021    | The 3th International Artificial Intelligence Fair (International competition) High School Second Prize  #E10
-| 2022    | AI Future High School Students' Artificial Intelligence Innovation Summit (Regional level) First Prize 
-| 2021    | The First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge (Provincial competition) First Prize #E11
-| 2021    | 2022 Shanghai Science Association for Young Talents (SSAYT) Senior Membership Selection, First Place Prize (ranking first place in division of Computer Science) #E12
+| 2023    | Award of Scientific Research Project of Rhino-Bird Middle School Science Research Training Program (National level) **Outstanding prize (ranking national 7th in the finals)**  #E8
+| 2023    | The 38th Shanghai Youth Science and Technology Innovation Competition (Provincial competition) **First Prize**  #E9
+| 2022    | The 37th Shanghai Youth Science and Technology Innovation Competition (Provincial competition) **Second Prize** #E9
+| 2022    | The 4th International Artificial Intelligence Fair (International competition) **High School Second Prize**  #E10
+| 2021    | The 3th International Artificial Intelligence Fair (International competition) **High School Second Prize**  #E10
+| 2022    | AI Future High School Students' Artificial Intelligence Innovation Summit (Regional level)** First Prize** 
+| 2021    | The First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge (Provincial competition)** First Prize** #E11
+| 2021    | 2022 Shanghai Science Association for Young Talents (SSAYT) Senior Membership Selection, **First Place Prize (ranking first place in division of Computer Science)** #E12
 
 # 🎡 ACTIVITIES
 
