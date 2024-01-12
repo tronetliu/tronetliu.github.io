@@ -33,9 +33,9 @@ My name is Tongshu Liu (Joshua).
 | --- | --- |
 | TOEFL	    | 103
 | AP	      | CACULUS BC 4 (CACULUS AB 5), CHEMISTRY 4, STATISTICS 4
-| ACT       | 33
-| AMC 12B	  | 121.5
-| AIME	    | 11
+| ACT       | 33 (Math 36, Science 33, English 35, Reading 26)
+| AMC 12B	  | 121.5 / 150
+| AIME	    | 11 / 15
 
 # 🎖 Honors and Awards
 
@@ -149,45 +149,118 @@ Certificates of Awards and Activities
 </div>
 
 ### Evidence #3: Certificate of HiMCM (High School Mathematical Contest In Modeling)
+
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E3-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 ### Evidence #4: USACO Profile (Gold Division)
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E4-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 ### Evidence #5: Certificates of CCC
+
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E5-1.png" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 ### Evidence #6: Certificates of CCO
+
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E6-1.png" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 ### Evidence #7: Certificates of DUKE MATH MEET
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E7-1.jpg" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 ### Evidence #8: Certificates of Project and Award of Final in Rhino-Bird Middle School Science Research Training Program
 
-(labeled in English)
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E8-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E8-2.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
 
-LINK: https://mp.weixin.qq.com/s/3fPULhUiiX6E_1pkyP2sIQ
+[LINK](https://mp.weixin.qq.com/s/3fPULhUiiX6E_1pkyP2sIQ)
+
 Rhino-Bird Middle School Science Research Training Program is hosted by Beijing National Research Center for Information Science and Technology, Tsinghua university and Tencent Company. It’s a platform for scientific research exploration and practical innovation to stimulate students' interest and enthusiasm in exploring unknown fields of science, and deepen their research horizons to enhance their research capabilities, helping to cultivate and reserve top scientific and technological talents in the country. The Rhino-Bird research program has become the most influential academic research platform in the fields of information technology and artificial intelligence in China.
 
 ### Evidence #9: Certificates of 38th and 37th Shanghai Youth Science and Technology Innovation Competition
-(labeled in English, the first prize awarded to top 5%)
+the first prize awarded to top 5%
+
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E9-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E9-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 
 ### Evidence #10: Certificates of the 4th and 3rd International Artificial Intelligence Fair
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E10-1.jpg" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E10-2.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
 
-My project ranks third place in IAIF 2022
-Award list link: https://maimai.cn/article/detail?fid=1773073926&efid=2VHg4mbUp3QOK0d5-LjfnA
-IAIF Link: https://www.iaif.tech/iaifHome/home
+My project ranks third place in IAIF 2022, Award list [link](https://maimai.cn/article/detail?fid=1773073926&efid=2VHg4mbUp3QOK0d5-LjfnA) , 
+IAIF [Link](https://www.iaif.tech/iaifHome/home)
 
 ### Evidence #11: Certificate of the First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge 
 
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E11-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
+
 ### Evidence #12: Certificate of 2022 Shanghai Science Association for Young Talents (SSAYT) Senior Membership Selection 
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E12.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E12-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 
 Certificates and Photos of Activities
 ### Evidence #13: 2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E13-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E13-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 
 ### Evidence #14: 2022 Tencent Rhinoceros Bird Elite Camp 
 The campers are university and middle school students selected for the Tencent Rhino-Bird program
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E14-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E14-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E14-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 
 ### Evidence #15: 2021 Youth AI Future Summer Camp
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E16.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 (translated in English)
 
 Personal Evaluation Report from Prof. Cewu Lu (Department of Computer Science and Engineering Shanghai Jiao Tong University, top scientists in the field of computer vision)
 
 ### Evidence #16: Violin Certificate
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E1-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E1-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E1-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 Obtained the violin amateur level 10 (highest level) certificate issued by Shanghai Conservatory of Music at the age of 13.
 
 ### Evidence #17: "Tongshu Reading Club" public welfare project
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E1-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E1-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E1-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
 
 Introduction of  "Tongshu Reading Club" public welfare project
 As more and more young and middle-aged people in  rural areas of China come to work in cities, a large number of left-behind children in rural areas are facing a lack of parental companionship. In rural areas where smartphones are becoming increasingly popular, mobile phones have become a spiritual dependence for many left-behind children, causing a large number of them to become addicted to smartphones, leading to learning difficulties and mental deprivation. Helping left-behind children keep away from smartphones and like to read will be a problem that the whole society needs to pay attention to. In response to this situation, the Tongshu Reading Club was born, Tongshu in Chinese means children’s book. The Reading Club will gather social resources in different forms to provide high-quality books and reading guidance for left-behind children in rural areas, thus to build a spiritual home for left-behind children in rural areas and illuminate their future.
