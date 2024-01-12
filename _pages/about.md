@@ -239,31 +239,41 @@ The campers are university and middle school students selected for the Tencent R
 ### Evidence #15: 2021 Youth AI Future Summer Camp
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
   <img src="images/appendix/E15-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E15-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E15-2.png" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
 
 Personal Evaluation Report from Prof. Cewu Lu (Department of Computer Science and Engineering Shanghai Jiao Tong University, top scientists in the field of computer vision)
 
 ### Evidence #16: Violin Certificate
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E16.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E16.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
-
-
 
 Obtained the violin amateur level 10 (highest level) certificate issued by Shanghai Conservatory of Music at the age of 13.
 
 ### Evidence #17: "Tongshu Reading Club" public welfare project
+
+#### Introduction of  "Tongshu Reading Club" public welfare project
+
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E1-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E1-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E1-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E17.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
+
+As more and more young and middle-aged people in  rural areas of China come to work in cities, a large number of left-behind children in rural areas are facing a lack of parental companionship. In rural areas where smartphones are becoming increasingly popular, mobile phones have become a spiritual dependence for many left-behind children, causing a large number of them to become addicted to smartphones, leading to learning difficulties and mental deprivation. Helping left-behind children keep away from smartphones and like to read will be a problem that the whole society needs to pay attention to. In response to this situation, the Tongshu Reading Club was born, Tongshu in Chinese means children’s book. The Reading Club will gather social resources in different forms to provide high-quality books and reading guidance for left-behind children in rural areas, thus to build a spiritual home for left-behind children in rural areas and illuminate their future.
+
+#### Donation book list and book label with reading grades
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E17-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E17-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
 
 
-Introduction of  "Tongshu Reading Club" public welfare project
-As more and more young and middle-aged people in  rural areas of China come to work in cities, a large number of left-behind children in rural areas are facing a lack of parental companionship. In rural areas where smartphones are becoming increasingly popular, mobile phones have become a spiritual dependence for many left-behind children, causing a large number of them to become addicted to smartphones, leading to learning difficulties and mental deprivation. Helping left-behind children keep away from smartphones and like to read will be a problem that the whole society needs to pay attention to. In response to this situation, the Tongshu Reading Club was born, Tongshu in Chinese means children’s book. The Reading Club will gather social resources in different forms to provide high-quality books and reading guidance for left-behind children in rural areas, thus to build a spiritual home for left-behind children in rural areas and illuminate their future.
+#### We established libraries for three schools in minority area of Yunnan province
+<div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <img src="images/appendix/E17-4.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E17-5.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E17-6.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <img src="images/appendix/E17-8.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</div>
 
-Donation book list and book label with reading grades
 
-We established libraries for three schools in minority area of Yunnan province
