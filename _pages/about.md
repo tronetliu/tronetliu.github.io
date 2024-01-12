@@ -125,7 +125,7 @@ Certificates of Awards and Activities
   <!-- <div class='paper-box-text' markdown="1"> </div> -->
 </div>
 
-<div>
+<div style="display:flex;">
   <img src="images/appendix/E1-1.png" width="100%" />
   <img src="images/appendix/E1-2.png" width="100%" />
   <img src="images/appendix/E1-3.png" width="100%" />
