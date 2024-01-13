@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Tongshu Liu (Joshua).
-
 # 📖 Educations
 
 + *2019.09-2023.06*     High School Affiliated to Shanghai Jiao Tong University IB Center
@@ -69,7 +67,7 @@ My name is Tongshu Liu (Joshua).
 
 # 🎡 ACTIVITIES
 
-## TEAM ACTIVITIES
+## STEM ACTIVITIES
 *August 2023*  Participated in **2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML 2023)** and made oral presentation of my research paper. I won the **Best Presentation Award** in the session of Computer Vision and Recognition. [#E13](#evidence-13-2023-ieee-4th-international-conference-on-pattern-recognition-and-machine-learning)
 (PRML is an annual conference which aims to present the latest research and results of scholars and experts related to Pattern Recognition and Machine Learning. Conference [URL](http://www.prml.org/index.html)
 
