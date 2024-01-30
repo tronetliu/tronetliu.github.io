@@ -188,17 +188,17 @@ Certificates of Awards and Activities
 
 ### Evidence #7: Certificates of DUKE MATH MEET
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-  <img src="images/appendix/E7-1.jpg" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+<a href="images/appendix/E7-1.png" style="width:600px"><img src="images/appendix/E7-1.jpg" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+  
 </div>
 
 ### Evidence #8: Certificates of Project and Award of Final in Rhino-Bird Middle School Science Research Training Program
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-  <img src="images/appendix/E8-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E8-2.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+<a href="images/appendix/E8-1.jpg" style="width:300px"><img src="images/appendix/E8-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+<a href="images/appendix/E8-2.jpg" style="width:300px"><img src="images/appendix/E8-2.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+  
+  
 </div>
 
 [LINK](https://mp.weixin.qq.com/s/3fPULhUiiX6E_1pkyP2sIQ)
@@ -209,20 +209,19 @@ Rhino-Bird Middle School Science Research Training Program is hosted by Beijing 
 the first prize awarded to top 5%
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-  <img src="images/appendix/E9-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E9-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+<a href="images/appendix/E9-1.png" style="width:300px"> <img src="images/appendix/E9-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+<a href="images/appendix/E9-2.png" style="width:300px"> <img src="images/appendix/E9-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+ 
 </div>
 
 
 ### Evidence #10: Certificates of the 4th and 3rd International Artificial Intelligence Fair
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
 
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-  <img src="images/appendix/E10-1.jpg" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E10-2.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+<a href="images/appendix/E10-1.jpg" style="width:300px"> <img src="images/appendix/E10-1.jpg" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+<a href="images/appendix/E10-2.jpg" style="width:300px"> <img src="images/appendix/E10-2.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+ 
+ 
 </div>
 
 My project ranks third place in IAIF 2022, Award list [link](https://maimai.cn/article/detail?fid=1773073926&efid=2VHg4mbUp3QOK0d5-LjfnA) , 
