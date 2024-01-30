@@ -19,8 +19,8 @@ redirect_from:
 
 # 📖 Educations
 
-+ *2021.09-2024.06*    High School Affiliated to Shanghai Jiao Tong University
-+ *2017.09-2021.07*     Shanghai Shibei Junior High School (Class of Mathematics Competition)
++ *2021.09-2024.06*   High School Affiliated to Shanghai Jiao Tong University
++ *2017.09-2021.07*   Shanghai Shibei Junior Middle School
 
 > NOTE: Most achievements can be found in the evidence materials in the appendix, with reference to [#Ei](#appendix) 
 
@@ -133,7 +133,10 @@ Certificates of Awards and Activities
 <!-- </div> -->
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E1-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  <a href="images/appendix/E1-1.png">
+    <img src="images/appendix/E1-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  </a>
+  
   <img src="images/appendix/E1-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E1-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
