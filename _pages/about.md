@@ -19,9 +19,8 @@ redirect_from:
 
 # 📖 Educations
 
-+ *2019.09-2023.06*     High School Affiliated to Shanghai Jiao Tong University IB Center
-+ *2019.09-2023.06*     High School Affiliated to Shanghai Jiao Tong University 
-+ *2019.09-2023.06*    Shanghai Shibei Junior High School (Class of Mathematics Competition)
++ *2021.09-2024.06*    High School Affiliated to Shanghai Jiao Tong University
++ *2017.09-2021.07*     Shanghai Shibei Junior High School (Class of Mathematics Competition)
 
 > NOTE: Most achievements can be found in the evidence materials in the appendix, with reference to [#Ei](#appendix) 
 
@@ -29,11 +28,11 @@ redirect_from:
 
 | TESTS | SCORES |
 | --- | --- |
-| TOEFL	    | 103
-| AP	      | CACULUS BC 4 (CACULUS AB 5), CHEMISTRY 4, STATISTICS 4
-| ACT       | 33 (Math 36, Science 33, English 35, Reading 26)
-| AMC 12B	  | 121.5 / 150
-| AIME	    | 11 / 15
+| TOEFL	    | 103 (Reading 26, Listening 29, Speaking 23, Writing 25)
+| AP	      | CACULUS BC 4 (CACULUS AB Subscore 5), CHEMISTRY 4, STATISTICS 4,  AP scholar
+| ACT       | **Composite 33** (Math 36, Science 33, English 35, Reading 26)
+| AMC 12B	  | 121.5 out of 150
+| AIME	    | 11 out of 15
 
 # 🎖 Honors and Awards
 
