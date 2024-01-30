@@ -130,7 +130,7 @@ Certificates of Awards and Activities
     </div>
   </div>
   <!-- <div class='paper-box-text' markdown="1"> </div> -->
-<!-- </div> -->s
+<!-- </div> -->
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
   <a href="images/appendix/E1-1.png" style="width:300px">
