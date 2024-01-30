@@ -232,7 +232,7 @@ IAIF [Link](https://www.iaif.tech/iaifHome/home)
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
 <a href="images/appendix/E11.png" style="width:300px"><img src="images/appendix/E11.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
   
-</d
+</div>
 
 
 ### Evidence #12: Certificate of 2022 Shanghai Science Association for Young Talents (SSAYT) Senior Membership Selection 
