@@ -305,14 +305,14 @@ As more and more young and middle-aged people in  rural areas of China come to w
 
 #### We established libraries for three schools in minority area of Yunnan province
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-<a href="images/appendix/E1-1.png" style="width:300px"></a>
-  <img src="images/appendix/E17-4.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E17-5.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E17-6.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E17-8.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+<a href="images/appendix/E17-4.jpg" style="width:300px"><img src="images/appendix/E17-4.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+<a href="images/appendix/E17-5.jpg" style="width:300px"> <img src="images/appendix/E17-5.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+<a href="images/appendix/E17-6.jpg" style="width:300px"><img src="images/appendix/E17-6.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+<a href="images/appendix/E17-8.jpg" style="width:300px"><img src="images/appendix/E17-8.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+  
+ 
+  
+  
 </div>
 
 
