@@ -147,41 +147,56 @@ Certificates of Awards and Activities
 
 ### Evidence #2: Certificate and Score of AIME
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+  <a href="images/appendix/E2-1.png" style="width:300px">
   <img src="images/appendix/E2-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
-  <img src="images/appendix/E2-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+  </a>
+  <a href="images/appendix/E2-2.png" style="width:300px">  <img src="images/appendix/E2-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+  
+
 </div>
 
 ### Evidence #3: Certificate of HiMCM (High School Mathematical Contest In Modeling)
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E3-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+<a href="images/appendix/E3-1.png" style="width:300px"> 
+<img src="images/appendix/E3-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</a>
+ 
 </div>
 
 ### Evidence #4: USACO Profile (Gold Division)
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E4-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+<a href="images/appendix/E4-1.png" style="width:300px">
+<img src="images/appendix/E4-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+</a>
+  
 </div>
 
 ### Evidence #5: Certificates of CCC
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E5-1.png" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+<a href="images/appendix/E5-1.png" style="width:600px"> <img src="images/appendix/E5-1.png" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+ 
 </div>
 
 ### Evidence #6: Certificates of CCO
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-  <img src="images/appendix/E6-1.png" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
+<a href="images/appendix/E6-1.png" style="width:600px"><img src="images/appendix/E6-1.png" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+  
 </div>
 
 ### Evidence #7: Certificates of DUKE MATH MEET
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E7-1.jpg" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
 
 ### Evidence #8: Certificates of Project and Award of Final in Rhino-Bird Middle School Science Research Training Program
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E8-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E8-2.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
@@ -194,6 +209,8 @@ Rhino-Bird Middle School Science Research Training Program is hosted by Beijing 
 the first prize awarded to top 5%
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E9-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E9-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
@@ -201,6 +218,9 @@ the first prize awarded to top 5%
 
 ### Evidence #10: Certificates of the 4th and 3rd International Artificial Intelligence Fair
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E10-1.jpg" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E10-2.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
@@ -211,12 +231,15 @@ IAIF [Link](https://www.iaif.tech/iaifHome/home)
 ### Evidence #11: Certificate of the First Yangtze River Delta Youth Artificial Intelligence Olympic Challenge 
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E11.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
 
 
 ### Evidence #12: Certificate of 2022 Shanghai Science Association for Young Talents (SSAYT) Senior Membership Selection 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E12.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E12-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
@@ -225,6 +248,8 @@ IAIF [Link](https://www.iaif.tech/iaifHome/home)
 Certificates and Photos of Activities
 ### Evidence #13: 2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E13-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E13-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
@@ -233,6 +258,9 @@ Certificates and Photos of Activities
 ### Evidence #14: 2022 Tencent Rhinoceros Bird Elite Camp 
 The campers are university and middle school students selected for the Tencent Rhino-Bird program
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E14-1.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E14-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E14-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
@@ -241,6 +269,8 @@ The campers are university and middle school students selected for the Tencent R
 
 ### Evidence #15: 2021 Youth AI Future Summer Camp
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E15-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E15-2.png" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
@@ -249,6 +279,8 @@ Personal Evaluation Report from Prof. Cewu Lu (Department of Computer Science an
 
 ### Evidence #16: Violin Certificate
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E16.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
 
@@ -259,6 +291,7 @@ Obtained the violin amateur level 10 (highest level) certificate issued by Shang
 #### Introduction of  "Tongshu Reading Club" public welfare project
 
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E17.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
 
@@ -266,6 +299,8 @@ As more and more young and middle-aged people in  rural areas of China come to w
 
 #### Donation book list and book label with reading grades
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E17-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E17-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
 </div>
@@ -273,6 +308,10 @@ As more and more young and middle-aged people in  rural areas of China come to w
 
 #### We established libraries for three schools in minority area of Yunnan province
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
+<a href="images/appendix/E1-1.png" style="width:300px"></a>
   <img src="images/appendix/E17-4.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E17-5.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
   <img src="images/appendix/E17-6.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" />
