@@ -264,7 +264,7 @@ The campers are university and middle school students selected for the Tencent R
 
 ### Evidence #15: 2021 Youth AI Future Summer Camp
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-<a href="images/appendix/E15-.jpg" style="width:300px"> <img src="images/appendix/E15-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+<a href="images/appendix/E15-1.jpg" style="width:300px"> <img src="images/appendix/E15-1.jpg" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
 <a href="images/appendix/E15-2.png" style="width:300px">  <img src="images/appendix/E15-2.png" width="600px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
  
 
@@ -294,7 +294,7 @@ As more and more young and middle-aged people in  rural areas of China come to w
 
 #### Donation book list and book label with reading grades
 <div style="display:flex;overflow: auto;gap: 1rem;padding: 12px 0">
-<a href="images/appendix/E17-12.png" style="width:300px"><img src="images/appendix/E17-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
+<a href="images/appendix/E17-2.png" style="width:300px"><img src="images/appendix/E17-2.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
 <a href="images/appendix/E17-3.png" style="width:300px">  <img src="images/appendix/E17-3.png" width="300px" style="border-radius: 0.125rem;border-color: rgb(253 186 116);" /></a>
   
 
